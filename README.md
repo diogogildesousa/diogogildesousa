@@ -18,9 +18,9 @@ Focused on developing strong technical and problem-solving skills.
 
 - C (Intermediate)
 - Python (In Progress)
+- React (In Progress)
+- TypeScript (In Progress)
 - HTML, CSS (Foundations)
-- React (Learning)
-- TypeScript (Learning)
 - SQL (Foundations)
 
 📈 GitHub Focus
