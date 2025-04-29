@@ -1,8 +1,8 @@
 👋 Hello,
 
 🚀 About Me
-Aspiring programmer currently studying Computer Science, Python and Artifical Intelligence fundamentals through Harvard's CS50 courses.
-Background in Graphic and Communication Design, I bring a creative approach to technology, especially in Front-End Development and User Experience. 
+- Aspiring programmer currently studying Computer Science, Python and Artifical Intelligence fundamentals through Harvard's CS50 courses.
+- With ackground in Graphic and Communication Design, I bring a creative approach to technology, especially in Front-End Development and User Experience. 
 
 📚 Currently Learning
 - C Programming (CS50x)
