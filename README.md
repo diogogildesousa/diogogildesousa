@@ -9,9 +9,8 @@
 
 🛠️ Tools & Technologies
 - Python
-- React (Soon)
-- TypeScript (Soon)
-- HTML, CSS
+- C
+- SQL
 
 > "Learning never exhausts the mind, it only ignites it."
 
